@@ -1,4 +1,4 @@
-# Java App Example Repository
+# Java App Example
 
 This app was generated via Quarkus:
 
