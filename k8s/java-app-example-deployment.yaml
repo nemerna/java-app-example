@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: java-app-example
-          image: quay.io/nnaamneh/java-app-example
+          image: quay.io/nnaamneh/java-app-example:9811a8800cb8651c237bf8c0f3c1cbf2b15e6ae0
           ports:
             - containerPort: 8080
               protocol: TCP
